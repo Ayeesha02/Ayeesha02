@@ -48,7 +48,7 @@ I'm passionate about building creative, interactive, and human-centered digital 
 ##  GitHub Stats
 
 ![Ayeesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayeesha02&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeesha02&layout=flex)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeesha02&layout=grid)
 
 ---
 
