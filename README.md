@@ -52,7 +52,7 @@ I'm passionate about building creative, interactive, and human-centered digital 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Ethical Hacking – Skill India, Internshala (2024)
 - Backend Web Development with Node.js & Express – DevTown (2024)
@@ -62,7 +62,7 @@ I'm passionate about building creative, interactive, and human-centered digital 
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm actively seeking developer roles and internship opportunities.  
 Feel free to connect or reach out:
