@@ -1,72 +1,161 @@
-# 👋 Hi, I'm Ayeesha Ubedulla Shariff
+# Hi there! 👋 I'm Ayesha
 
-🎓 Computer Science Graduate | 💻 Full-Stack Developer | AI & Cyber Enthusiast | 🌐 Web Enthusiast  
-📍 Based in UAE | 📧 ayeeshasha02@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/ayeesha-shariff) | 💻 [GitHub](https://github.com/Ayeesha02)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+I'm a passionate developer who loves creating innovative solutions and exploring new technologies. Currently focused on building impactful projects that make a difference.
+
+- 🔭 I'm currently working on **exciting projects in AI and web development**
+- 🌱 I'm currently learning **machine learning, cloud computing, and modern frameworks**
+- 👯 I'm looking to collaborate on **open source projects and innovative tech solutions**
+- 💬 Ask me about **programming, tech trends, and project development**
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- ⚡ Fun fact: **I love turning complex problems into simple, elegant solutions**
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,html,css" alt="Programming Languages" />
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,django,bootstrap" alt="Frameworks" />
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,mongodb,mysql,postgresql,vscode" alt="Tools" />
+</div>
+
+### AI & Data Science
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="AI Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayeesha02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeesha02&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayeesha02&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayeesha02&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 🔥 Featured Projects
+
+### 🤖 AI Object Detection System
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" alt="YOLO" />
+</div>
+
+Real-time object detection system using YOLOv3 with webcam integration
+- 🎯 Real-time detection with optimized performance
+- 📊 Multiple object tracking and classification
+- 🚀 GPU acceleration support
+
+### 🌐 Full-Stack Web Application
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
+
+Modern web application with responsive design and robust backend
+- ✨ Intuitive user interface with React
+- 🔐 Secure authentication and authorization
+- 📱 Mobile-responsive design
+
+### 📊 Data Analysis Dashboard
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+</div>
+
+Interactive data visualization and analysis platform
+- 📈 Dynamic charts and graphs
+- 🔍 Advanced filtering and search capabilities
+- 📊 Export functionality for reports
+
+## 🌟 What I'm Working On
+
+```python
+class CurrentFocus:
+    def __init__(self):
+        self.projects = [
+            "AI-powered applications",
+            "Cloud-native solutions", 
+            "Open source contributions",
+            "Learning new frameworks"
+        ]
+        self.goals = [
+            "Master machine learning algorithms",
+            "Contribute to major open source projects",
+            "Build scalable web applications",
+            "Share knowledge through blog posts"
+        ]
+    
+    def get_motto(self):
+        return "Code with purpose, learn with passion! 🚀"
+```
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayeesha02&theme=tokyo-night&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+## 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+## 🎵 Spotify Playing
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" />
+</div>
 
 ---
 
-## About Me
-
-I'm a recent Computing Science graduate from the University of Stirling, with hands-on experience in full-stack web development, Android apps, cybersecurity tools, and game development.  
-I'm passionate about building creative, interactive, and human-centered digital products.
-
----
-
-## Projects Showcase
-
-###  [Movie Website](https://github.com/Ayeesha02/Movie-website)
-- A responsive, pixel-themed movie discovery site built with React, Vite, and Tailwind CSS.
-- Features search, debounced input, and modern UI design.
-
-### [HireSphere: AI-Powered Hiring System](https://github.com/Ayeesha02/HireSphere.git)
-- Full-stack application using React.js, Flask, Spring Boot, TensorFlow, and BERT.
-- Includes resume screening, bias detection (AIF360), and workforce forecasting.
-
-### [Cybersecurity CLI Tool](https://github.com/Ayeesha02/cybersecurity-awareness-cli.git)
-- Python CLI app to train users in phishing awareness and password strength.
-- Logs simulated user actions for security analysis.
-
-###  Android App Suite
-- Built multiple Java-based Android apps using Android Studio and SQLite.
-- Focused on intuitive UI, local storage, and multi-screen architecture.
-
-###  Java Game (No Engine)
-- 2D desktop game using only Java (Swing/AWT).
-- Built custom collision detection and gameplay logic from scratch.
-
----
-
-##  Skills & Technologies
-
-**Languages:** Python, Java, JavaScript, SQL  
-**Frameworks/Tools:** React, Tailwind, Flask, Spring Boot, Pandas, Numpy, SQLite  
-**Platforms:** Vite, Android Studio, IntelliJ, VS Code, Eclipse  
-**Soft Skills:** Team Collaboration, Adaptability, Critical Thinking
-
----
-
-##  GitHub Stats
-
-![Ayeesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayeesha02&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeesha02&layout=compact)
-
----
-
-## Certifications
-
-- Ethical Hacking – Skill India, Internshala (2024)
-- Backend Web Development with Node.js & Express – DevTown (2024)
-- Computer Vision App – Microsoft Azure (2025)
-- REST API with Node.js – Coursera + Azure (2025)
-- Full Website with WordPress – Coursera (2025)
-
----
-
-## Let's Connect
-
-I'm actively seeking developer roles and internship opportunities.  
-Feel free to connect or reach out:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/ayeesha-shariff)
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:ayeeshasha02@gmail.com)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayeesha02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  **"The best way to predict the future is to create it."** 💫
+  
+  ⭐️ From [Ayeesha02](https://github.com/Ayeesha02)
+</div>s
