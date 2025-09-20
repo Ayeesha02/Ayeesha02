@@ -12,7 +12,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 - 🌱 I'm currently learning **machine learning, cloud computing, and modern frameworks**
 - 👯 I'm looking to collaborate on **open source projects and innovative tech solutions**
 - 💬 Ask me about **programming, tech trends, and project development**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **[Ayeeshasha02@gmail.com](Ayeeshasha02@gmail.com)**
 - ⚡ Fun fact: **I love turning complex problems into simple, elegant solutions**
 
 ## 🛠️ Tech Stack
@@ -123,19 +123,19 @@ class CurrentFocus:
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/ayeesha-shariff" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/Ayeesha_sha_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://www.instagram.com/ayxha02/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="Ayeeshasha02@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
