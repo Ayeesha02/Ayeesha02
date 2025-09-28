@@ -69,17 +69,17 @@ Real-time object detection system using YOLOv3 with webcam integration
 - 📊 Multiple object tracking and classification
 - 🚀 GPU acceleration support
 
-### 🌐 Full-Stack Web Application
+### 🌐 HIRESPHERE - AI-Powered Hiring Platform
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 Modern web application with responsive design and robust backend
 - ✨ Intuitive user interface with React
 - 🔐 Secure authentication and authorization
-- 📱 Mobile-responsive design
+- 📱 AI-based recruitment platform
 
 ### 📊 Data Analysis Dashboard
 <div align="left">
