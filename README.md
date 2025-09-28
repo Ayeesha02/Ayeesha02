@@ -81,18 +81,6 @@ Modern web application with responsive design and robust backend
 - 🔐 Secure authentication and authorization
 - 📱 AI-based recruitment platform
 
-### 📊 Data Analysis Dashboard
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</div>
-
-Interactive data visualization and analysis platform
-- 📈 Dynamic charts and graphs
-- 🔍 Advanced filtering and search capabilities
-- 📊 Export functionality for reports
-
 ## 🌟 What I'm Working On
 
 ```python
